@@ -28,6 +28,7 @@
     <main>
         <h1>Tafels Berekenen</h1>
         <section>
+            <h2>Op Tafeldiploma.nl kun je op een eenvoudige manier alle tafels oefenen. De rekenopdrachten zijn simpel en overzichtelijk zodat je direct kan beginnen met het oefenen van de tafels. Kies onderstaand één van de tafels uit die je wil oefenen, laat zien wat je kan bij de tempotoets of print mooie werkbladen uit.</h2><br>
             <p>Vermenigtal</p>
             <input type="number">
             <input type="submit" value="Genereer">
@@ -42,7 +43,7 @@
             <div class></div>
         </section> 
     </main>
-    
+
     <footer>
 
     </footer>
