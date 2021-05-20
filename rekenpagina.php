@@ -33,7 +33,16 @@
             <input type="submit" value="Genereer">
         </section>
         <div class></div>
+
+        <section id="machtreeks">
+            <h1>Machtreeks berekenen</h1>
+            <p>Vermenigtal</p>
+            <input type="number">
+            <input type="submit" value="Genereer">
+            <div class></div>
+        </section> 
     </main>
+    
     <footer>
 
     </footer>
