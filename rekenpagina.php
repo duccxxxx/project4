@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Daan Berg">
     <meta name="keywords" content="">
-    <title>Tafels | Mathmate</title>
+    <title>Rekenpagina | Mathmate</title>
 
     <link rel="stylesheet" type="text/css" href="CSS/tafels.css">  
 </head>
@@ -26,7 +26,13 @@
         </nav>
     </header>
     <main>
-
+        <h1>Tafels Berekenen</h1>
+        <section>
+            <p>Vermenigtal</p>
+            <input type="number">
+            <input type="submit" value="Genereer">
+        </section>
+        <div class></div>
     </main>
     <footer>
 
