@@ -12,6 +12,24 @@
     <link rel="stylesheet" type="text/css" href="CSS/tafels.css">  
 </head>
 <body>
-    
+    <header>
+        <nav>
+             <section id="navbar">
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Onderwerpen</a></li>
+                        <li><img src="images/thereal.png"></li>
+                        <li><a href="">Game</a></li>
+                        <li><a href="">Contact</a></li>
+                    </ul>
+            </section>
+        </nav>
+    </header>
+    <main>
+
+    </main>
+    <footer>
+
+    </footer>
 </body>
 </html>
