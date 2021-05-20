@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@media screen and (min-width: 360px) and (max-width:768px){
+
+}
+
+@media screen and (min-width: 768px) and (max-width:1200px){
+
+}
+
+@media screen and (min-width: 1200px){
+    body{
+        background-color: #e6e6e6;
+        width: 100vw;
+    }
+    ul li,  a:link, a:visited{
+        color: white;
+        text-decoration: none;
+    }
+    #navbar{
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: center;
+        width: 70vw;
+        margin-left: 15vw;
+    }
+    ul li{
+        list-style: none;
+        text-decoration: none;
+        float: left;
+        font-size: 1.5rem;
+        color: #3fb0ac;
+        height: 12vh;
+        width: 13vw;
+        background-color: black;
+    }
+    ul li img{
+        margin-top: -1.5vh;
+        margin-left: 3vw;
+    }
+    ul li a{
+        position: relative;
+        top: 3vh;
+        left: 3vw;
+    }
+
+}

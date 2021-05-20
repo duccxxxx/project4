@@ -17,8 +17,8 @@
              <section id="navbar">
                     <ul>
                         <li><a href="">Home</a></li>
-                        <li><a href="">Onderwerpen</a></li>
-                        <li><img src="images/thereal.png"></li>
+                        <li><a href="">Rekenpagina</a></li>
+                        <li><img src="img/thereal.png" height="100vh"></li>
                         <li><a href="">Game</a></li>
                         <li><a href="">Contact</a></li>
                     </ul>
@@ -27,12 +27,12 @@
     </header>
     <main>
         <h1>Tafels Berekenen</h1>
-        <section>
+        <section id="tafels">
             <p>Vermenigtal</p>
             <input type="number">
             <input type="submit" value="Genereer">
         </section>
-        <div class></div>
+        <div class="antwoord"></div>
     </main>
     <footer>
 
