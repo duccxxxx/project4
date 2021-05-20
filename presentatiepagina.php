@@ -19,7 +19,7 @@
                     <ul>
                         <li><a href="">Home</a></li>
                         <li><a href="">Onderwerpen</a></li>
-                        <li><img src="images/thereal.png"></li>
+                        <li><img src="img/thereal.png" height="100vh"></li>
                         <li><a href="">Game</a></li>
                         <li><a href="">Contact</a></li>
                     </ul>
@@ -31,20 +31,20 @@
 
     <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="logo periode 4.png" style="width:100%">
-    <div class="text">Caption Text</div>
+    <img src="img/logo periode 4.png" style="width:100%">
+    <div class="text">Mathmate</div>
     </div>
 
     <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="thereal.png" style="width:100%">
-    <div class="text">Caption Two</div>
+    <img src="img/thereal.png" style="width:100%">
+    <div class="text">Rekenpagina</div>
     </div>
 
     <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="thereal.png" style="width:100%">
-    <div class="text">Caption Three</div>
+    <img src="img/thereal.png" style="width:100%">
+    <div class="text">Onderwerpen</div>
     </div>
 
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

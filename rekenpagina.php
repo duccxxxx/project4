@@ -17,8 +17,8 @@
              <section id="navbar">
                     <ul>
                         <li><a href="">Home</a></li>
-                        <li><a href="">Onderwerpen</a></li>
-                        <li><img src="images/thereal.png"></li>
+                        <li><a href="">Rekenpagina</a></li>
+                        <li><img src="img/thereal.png" height="100vh"></li>
                         <li><a href="">Game</a></li>
                         <li><a href="">Contact</a></li>
                     </ul>
@@ -27,12 +27,17 @@
     </header>
     <main>
         <h1>Tafels Berekenen</h1>
+<<<<<<< HEAD
         <section>
             <h2>Op Tafeldiploma.nl kun je op een eenvoudige manier alle tafels oefenen. De rekenopdrachten zijn simpel en overzichtelijk zodat je direct kan beginnen met het oefenen van de tafels. Kies onderstaand één van de tafels uit die je wil oefenen, laat zien wat je kan bij de tempotoets of print mooie werkbladen uit.</h2><br>
+=======
+        <section id="tafels">
+>>>>>>> 3c0d0487de2836bfc0577f71ae66572d7b716603
             <p>Vermenigtal</p>
             <input type="number">
             <input type="submit" value="Genereer">
         </section>
+<<<<<<< HEAD
         <div class></div>
 
         <section id="machtreeks">
@@ -42,6 +47,9 @@
             <input type="submit" value="Genereer">
             <div class></div>
         </section> 
+=======
+        <div class="antwoord"></div>
+>>>>>>> 3c0d0487de2836bfc0577f71ae66572d7b716603
     </main>
 
     <footer>
