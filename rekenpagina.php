@@ -27,33 +27,26 @@
     </header>
     <main>
         <h1>Tafels Berekenen</h1>
-<<<<<<< HEAD
-        <section>
+        <section id="tafel">
             <h2>Op Tafeldiploma.nl kun je op een eenvoudige manier alle tafels oefenen. De rekenopdrachten zijn simpel en overzichtelijk zodat je direct kan beginnen met het oefenen van de tafels. Kies onderstaand één van de tafels uit die je wil oefenen, laat zien wat je kan bij de tempotoets of print mooie werkbladen uit.</h2><br>
-=======
-        <section id="tafels">
->>>>>>> 3c0d0487de2836bfc0577f71ae66572d7b716603
             <p>Vermenigtal</p>
-            <input type="number">
-            <input type="submit" value="Genereer">
+            <input type="number" id="invoer">
+            <button id="knop">Genereer</button>
         </section>
-<<<<<<< HEAD
-        <div class></div>
+        <div id="tafel-ant"></div>
 
         <section id="machtreeks">
             <h1>Machtreeks berekenen</h1>
             <p>Vermenigtal</p>
             <input type="number">
-            <input type="submit" value="Genereer">
-            <div class></div>
+            <button>Genereer</button>
+            <div id=""></div>
         </section> 
-=======
-        <div class="antwoord"></div>
->>>>>>> 3c0d0487de2836bfc0577f71ae66572d7b716603
     </main>
 
     <footer>
 
     </footer>
+    <script src="js/rekenpagina.js" type=text/javascript></script>
 </body>
 </html>
