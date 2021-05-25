@@ -42,6 +42,15 @@
             <button id="btn-macht">Genereer</button>
             <div id="macht-ant"></div>
         </section> 
+        
+        <section id="machtreeks">
+            <h1>Machtreeks berekenen</h1>
+            <p>Vermenigtal</p>
+            <input type="number" id="breuk-max">
+            <input type="number" id="breuktal">
+            <button id="btn-breuk">Genereer</button>
+            <div id="breuk-antwoord"></div>
+        </section> 
     </main>
 
     <footer>
