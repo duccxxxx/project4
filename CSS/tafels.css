@@ -40,7 +40,18 @@
     }
     ul li a{
         position: relative;
-        top: 3vh;
+        top: 3.5vh;
         left: 3vw;
+    }
+    #tafels{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 3vh;
+    }
+    main h1{
+        display: flex;  
+        justify-content: center;
+        margin-top: 3vh;
     }
 }
