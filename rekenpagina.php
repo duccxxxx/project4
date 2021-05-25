@@ -28,9 +28,8 @@
     <main>
         <h1>Tafels Berekenen</h1>
         <section id="tafel">
-            <h2>Op Tafeldiploma.nl kun je op een eenvoudige manier alle tafels oefenen. De rekenopdrachten zijn simpel en overzichtelijk zodat je direct kan beginnen met het oefenen van de tafels. Kies onderstaand één van de tafels uit die je wil oefenen, laat zien wat je kan bij de tempotoets of print mooie werkbladen uit.</h2><br>
+            <h2>Op Mathmate.nl kun je op een eenvoudige manier alle tafels berekenen. De rekenopdrachten zijn simpel en overzichtelijk zodat je direct kan beginnen met het oefenen van de tafels. Kies onderstaand één van de tafels uit die je wil oefenen, laat zien wat je kan bij de tempotoets of print mooie werkbladen uit.</h2><br>
             <p>Vermenigtal</p>
-<<<<<<< Updated upstream
             <input type="number" id="invoer">
             <button id="knop">Genereer</button>
         </section>
@@ -39,25 +38,15 @@
         <section id="machtreeks">
             <h1>Machtreeks berekenen</h1>
             <p>Vermenigtal</p>
-            <input type="number">
-            <button>Genereer</button>
-            <div id=""></div>
+            <input type="number" id="macht">
+            <button id="btn-macht">Genereer</button>
+            <div id="macht-ant"></div>
         </section> 
-=======
-            <input type="number" id="">
-            <input type="submit" value="Genereer" onclick="knop">
-        </section>
-        <div id="antwoord"></div>
->>>>>>> Stashed changes
     </main>
 
     <footer>
 
     </footer>
-<<<<<<< Updated upstream
     <script src="js/rekenpagina.js" type=text/javascript></script>
-=======
-    <script src="Script/tafelreeks.js"></script>
->>>>>>> Stashed changes
 </body>
 </html>

@@ -54,4 +54,26 @@
         justify-content: center;
         margin-top: 3vh;
     }
+    #tafel-ant{
+        display: flex;
+        background-color: white;
+        width: 40vw;
+        height: 25vh;
+        border: 1px solid black;
+        text-align: center;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    #macht-ant{
+        display: flex;
+        background-color: white;
+        width: 40vw;
+        height: 25vh;
+        border: 1px solid black;
+        text-align: right;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
 }
