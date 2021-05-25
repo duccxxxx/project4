@@ -43,13 +43,13 @@
             <div id="macht-ant"></div>
         </section> 
         
-        <section id="Breuken reeksen">
-            <h1>Breuken berekenen</h1>
+        <section id="machtreeks">
+            <h1>Machtreeks berekenen</h1>
             <p>Vermenigtal</p>
-            <input type="number" id="teller">
-            <input type="number" id="noemer">
-            <button id="btn-macht">Genereer</button>
-            <div id="macht-ant"></div>
+            <input type="number" id="breuk-max">
+            <input type="number" id="breuktal">
+            <button id="btn-breuk">Genereer</button>
+            <div id="breuk-antwoord"></div>
         </section> 
     </main>
 
