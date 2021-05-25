@@ -42,6 +42,15 @@
             <button id="btn-macht">Genereer</button>
             <div id="macht-ant"></div>
         </section> 
+        
+        <section id="Breuken reeksen">
+            <h1>Breuken berekenen</h1>
+            <p>Vermenigtal</p>
+            <input type="number" id="teller">
+            <input type="number" id="noemer">
+            <button id="btn-macht">Genereer</button>
+            <div id="macht-ant"></div>
+        </section> 
     </main>
 
     <footer>
