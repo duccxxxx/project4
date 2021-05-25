@@ -49,9 +49,16 @@
         justify-content: center;
         margin-top: 3vh;
     }
+    #machtreeks{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 3vh;
+    }
     main h1{
         display: flex;  
         justify-content: center;
+        align-items: center;
         margin-top: 3vh;
     }
     #tafel-ant{
@@ -64,6 +71,8 @@
         flex-direction: row;
         justify-content: center;
         align-items: center;
+        margin-left: 30vw;
+        margin-top: 5vh;
     }
     #macht-ant{
         display: flex;
@@ -71,9 +80,26 @@
         width: 40vw;
         height: 25vh;
         border: 1px solid black;
-        text-align: right;
         flex-direction: row;
         justify-content: center;
-        align-items: center;
+        margin-left: 30vw;
+        margin-top: 5vh;
+    }
+    #kwadraat-ant{
+        display: flex;
+        background-color: white;
+        width: 40vw;
+        height: 25vh;
+        border: 1px solid black;
+        flex-direction: row;
+        justify-content: center;
+        margin-left: 30vw;
+        margin-top: 5vh;
+    }
+    #kwadraten{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 3vh;
     }
 }
