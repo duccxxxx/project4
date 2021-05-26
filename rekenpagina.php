@@ -57,7 +57,7 @@
 
         <section id="kwadraten">
             <h1>Tafels</h1>
-            <form onsubmit="return genereerKwadraat();">
+            <form onsubmit="return genereerkwadraat();">
                 <p>
                     <label>grondgetal:</label>
                     <input id="tafel-grondgetal" value="5" type="number">
