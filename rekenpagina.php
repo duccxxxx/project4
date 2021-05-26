@@ -45,19 +45,9 @@
                 </p>
             </form>
         </section>
-        <h1>Machtreeks berekenen</h1>
-        <section id="machtreeks">
-            
-            <p>Vermenigtal</p>
-            <input type="number" id="macht">
-            <button id="btn-macht">Genereer</button>
-        </section> 
-        <div id="macht-ant"></div>
-        <!-- Breuken reeks -->
-
         <section id="kwadraten">
             <h1>Tafels</h1>
-            <form onsubmit="return genereerkwadraat();">
+            <form onsubmit="return genereerMacht();">
                 <p>
                     <label>grondgetal:</label>
                     <input id="tafel-grondgetal" value="5" type="number">
@@ -71,6 +61,27 @@
                 </p>
                 <p>
                     <textarea readonly id="kwadraat-antwoord"></textarea>
+                </p>
+            </form>
+        </section>
+        <!-- Breuken reeks -->
+
+        <section id="kwadraten">
+            <h1>Tafels</h1>
+            <form onsubmit="return genereerMacht();">
+                <p>
+                    <label>grondgetal:</label>
+                    <input id="macht-grondgetal" value="5" type="number">
+                </p>
+                <p>
+                    <label>Tot getal:</label>
+                    <input id="max-macht" value="10" type="number">
+                </p>
+                <p>
+                    <button type="submit">Genereer tafel</button>
+                </p>
+                <p>
+                    <textarea readonly id="Macht-antwoord"></textarea>
                 </p>
             </form>
         </section>
