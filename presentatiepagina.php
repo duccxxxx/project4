@@ -17,7 +17,7 @@
         <nav>
              <section id="navbar">
                     <ul>
-                        <li><a href="">Home</a></li>
+                        <li><a href="Homepage.php">Home</a></li>
                         <li><a href="">Onderwerpen</a></li>
                         <li><img src="img/thereal.png" height="100vh"></li>
                         <li><a href="">Game</a></li>
